@@ -1,0 +1,9 @@
+{
+  "name": "shiftcheck-functions",
+  "version": "1.0.0",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "@supabase/supabase-js": "^2.43.0",
+    "twilio": "^4.23.0"
+  }
+}
